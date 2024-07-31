@@ -1,5 +1,5 @@
 1. AI Introduction 
-> 1. Understanding AI and Cognitive Systems - a Perspective on Its Potential and Challenges While Putting Them to Work with People [A list of metrics for evaluating LLM-generated content](https://journal.accsindia.org/show.article.php?id=81), AI Cognitive Systems, Issue 4, Vol 2- Issue 1 (2018)
+> 1. [Understanding AI and Cognitive Systems - a Perspective on Its Potential and Challenges While Putting Them to Work with People](https://journal.accsindia.org/show.article.php?id=81), AI Cognitive Systems, Issue 4, Vol 2- Issue 1 (2018)
 
 
 1. Evaluating text 
