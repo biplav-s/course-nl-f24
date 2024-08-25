@@ -1,4 +1,4 @@
-1. AI Introduction 
+1. Introduction to AI Concepts
 > 1. [Understanding AI and Cognitive Systems - a Perspective on Its Potential and Challenges While Putting Them to Work with People](https://journal.accsindia.org/show.article.php?id=81), AI Cognitive Systems, Issue 4, Vol 2- Issue 1 (2018)
 > 2. [A Perspectival Mirror of the Elephant: Investigating language bias on Google, ChatGPT, YouTube, and Wikipedia](https://cacm.acm.org/practice/a-perspectival-mirror-of-the-elephant/), Communications of the ACM, July 2024.
 
