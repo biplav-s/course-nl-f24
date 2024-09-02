@@ -10,6 +10,8 @@
 > > a. Tokenization: https://platform.openai.com/tokenizer
 > > 
 > > b. Parts of speech: https://parts-of-speech.info/, https://corenlp.run/
+> > 
+> > c. Edit distance: https://phiresky.github.io/levenshtein-demo/
  
 3. Evaluating text 
 > 1. Comparing strings and outputs of LLMs [A list of metrics for evaluating LLM-generated content](https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics), 
