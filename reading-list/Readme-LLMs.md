@@ -54,6 +54,7 @@
 4. AI, language and human understanding
 > 1. [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/),  Jacob Browning and Yann LeCun, Aug 2022. _Argues that not all human knowledge is in text, and so, any AI trained on it will struggle_.
 > 2. Weidinger, Laura, et al., [Taxonomy of Risks posed by Language Models](https://dl.acm.org/doi/10.1145/3531146.3533088), 2022 ACM Conference on Fairness, Accountability, and Transparency.
+> 3. [Mission: Impossible Language Models](https://aclanthology.org/2024.acl-long.787/), Julie Kallini, Isabel Papadimitriou, et al, ACL 2024. _Creates impossible languages and sees how GPT-2 performs on them. Implication for grammards and language learning._
 
 5. Resources: Datasets, Packages, Courses
 > 1. Data - [Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition](https://aclanthology.org/W02-2024/). Extraction in Dutch and Spanish.
