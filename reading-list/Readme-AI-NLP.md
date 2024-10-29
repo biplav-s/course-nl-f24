@@ -17,3 +17,5 @@
 > 1. Comparing strings and outputs of LLMs [A list of metrics for evaluating LLM-generated content](https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics), 
 Microsoft, June 2024
 > 2. [Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices](https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5), Jane Huang, March 2024
+4. NLP Concepts
+> 1. Topic modeling: [Latent Semantic Analysis](https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/) (LSA), 2024 by Prateek, Analytics Vidhya. 
