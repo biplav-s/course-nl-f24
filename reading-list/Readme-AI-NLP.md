@@ -18,4 +18,4 @@
 Microsoft, June 2024
 > 2. [Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices](https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5), Jane Huang, March 2024
 4. NLP Concepts
-> 1. Topic modeling: [Latent Semantic Analysis](https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/) (LSA), 2024 by Prateek, Analytics Vidhya. 
+> 1. Topic modeling: [Latent Semantic Analysis](https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/) (LSA), 2024 by Prateek, Analytics Vidhya; [Latent Drichlet Allocation](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/) (LDA), 2024 by Analytics Vidhya. 
