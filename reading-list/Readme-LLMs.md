@@ -15,10 +15,7 @@
 
 > > c. How  to choose LLMs - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide), April 2023
 
-> 4. [Llama](https://www.llama.com/), from Meta - open weight (source) LLM. 
-> > a. [Forbes article](https://finance.yahoo.com/news/mark-zuckerberg-went-meta-major-103000635.html) on strategy of open sourcing, Nov 2024
-
-> 5. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
+> 4. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
 > > a. About the technology
 > > > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
 > > > 2. [ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) [Yann LeCun, Jan 2023]
@@ -47,8 +44,12 @@
 > > 2. [ChatGPT mistakes](https://github.com/giuven95/chatgpt-failure) [A GitHub of mistakes]
 > > 3. [Case studies with LLMs](https://github.com/ai4society/LLM-CaseStudies) - [Finance](https://github.com/ai4society/LLM-CaseStudies/tree/main/Finance)  [Detailed examples in industries]
 
-> 5. [Llama](https://ai.meta.com/blog/meta-llama-3/) open source, from Meta. Latest Version:3
-> > a. [Comparison of Llama3 with Llama2](https://www.apps4rent.com/blog/llama-3-vs-llama-2/), by Apps2Rent
+> 5. [Llama](https://www.llama.com/), from Meta - open weight (source) LLM. 
+> > a. [Forbes article](https://finance.yahoo.com/news/mark-zuckerberg-went-meta-major-103000635.html) on strategy of open sourcing, Nov 2024
+> > 
+> > b. [Llama 3 blog](https://ai.meta.com/blog/meta-llama-3/) - overall description.
+> > 
+> > c. [Comparison of Llama3 with Llama2](https://www.apps4rent.com/blog/llama-3-vs-llama-2/), by Apps2Rent
 
 
 3. Text classification, learning
