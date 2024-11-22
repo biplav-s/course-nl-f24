@@ -15,7 +15,10 @@
 
 > > c. How  to choose LLMs - [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide), April 2023
 
-> 4. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
+> 4. [Llama](https://www.llama.com/), from Meta - open weight (source) LLM. 
+> > a. [Forbes article](https://finance.yahoo.com/news/mark-zuckerberg-went-meta-major-103000635.html) on strategy of open sourcing, Nov 2024
+
+> 5. [ChatGPT](https://openai.com/blog/chatgpt/), from OpenAI - LLM for dialogs
 > > a. About the technology
 > > > 1. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html) [NY Times, Dec 2022]
 > > > 2. [ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/) [Yann LeCun, Jan 2023]
